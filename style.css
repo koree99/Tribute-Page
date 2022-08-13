@@ -1,0 +1,27 @@
+body {
+    background-color: gainsboro;
+  }
+#title,p, figcaption {
+    text-align: center;
+  }
+#img-div {
+    background-color: white;
+  }
+#tribute-info {
+    background-color: gainsboro;
+  }
+img {
+    width: 100%;
+    display: block;
+  }
+#image {
+    max-width: 100%;
+    height: auto;
+  }
+.tribute {
+    text-align: center;
+}
+b {
+    color: white;
+    background-color: blue;
+}
